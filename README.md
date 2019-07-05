@@ -1,2 +1,2 @@
 # kwp_dataset
-Machine-generated dataset of Kinematic word problems for experimenting with sequence and self-attention neural models to evaluate physical language understanding.
+A machine-generated dataset of Kinematic word problems to train and evaluate neural models for the task of physical language understanding.
