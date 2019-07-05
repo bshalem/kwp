@@ -1,7 +1,7 @@
 # kwp_dataset
 A machine-generated dataset of Kinematic word problems to train and evaluate neural models for the task of physical language understanding.
 
-The dataset is a collection of word problem objects, each formatted with the following set of fields:
+The dataset is formatted as a collection of json objects, each defines a word problem as shown in the following sample:
 
 ```json
 {
@@ -16,3 +16,8 @@ The dataset is a collection of word problem objects, each formatted with the fol
     "question": ["a train  has  an initial displacement of 2122 m, acceleration of 1256 m/s/s, final displacement of 9348 m, initial velocity of 6516 m/s . what is the time elapsed ?"]
   },
 ```
+The initial version of the dataset contains 50,000 word problems as the split to train/dev/test is a user choice.
+
+The file to download the entire data is kwp.json.
+
+Motivation for simple interpreted queries, data construction and analyses are available in the companion paper:
