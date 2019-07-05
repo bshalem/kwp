@@ -20,4 +20,4 @@ The initial version of the dataset contains 50,000 word problems as the split to
 
 The file to download the entire data is kwp.json.
 
-Motivation for simple interpreted queries, data construction and analyses are available in the companion paper:
+Motivation for simple interpreted queries, data construction and analyses are available in the soon-to-be published companion paper.
