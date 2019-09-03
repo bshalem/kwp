@@ -1,4 +1,4 @@
-# kwp_dataset
+# What is KWP?
 A machine-generated dataset of Kinematic word problems to train and evaluate neural models for the task of physical language understanding.
 
 The dataset is formatted as a collection of json objects, each defines a word problem as shown in the following sample:
@@ -18,6 +18,16 @@ The dataset is formatted as a collection of json objects, each defines a word pr
 ```
 The initial version of the dataset contains 50,000 word problems as the split to train/dev/test is a user choice.
 
-The file to download the entire data is kwp.json.
+# Download KWP
+The single file to download the entire data is [kwp.json](kwp.json).
 
-Motivation for simple interpreted queries, data construction and analyses are available in the soon-to-be published companion paper.
+# Paper
+Motivation for simple interpreted queries, data construction and analyses are available in our soon-to-be published companion paper.
+
+### Bibtex
+    @inproceedings{kwp,
+        author = {Bleiweiss,Avi},
+        title = {Neural Sequence Modeling in Physical Language Understanding},
+        booktitle = {Neural Compuation Theory and Applications ({NCTA})},
+        year = {2019},
+        pages = {464--472},
