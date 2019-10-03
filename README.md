@@ -25,7 +25,7 @@ The single file to download the entire data is [kwp.json](kwp.json).
 Motivation for simple interpreted queries, data construction and analyses are available in our companion paper *Neural Sequence Modeling in Physical Language Understanding* in NCTA 2019. (oral)
 
 ### Citation
-    @inproceedings{ncta19,
+    @inproceedings{bleiweiss-ncta19,
         author = {Bleiweiss,Avi},
         title = {Neural Sequence Modeling in Physical Language Understanding},
         booktitle = {NCTA},
