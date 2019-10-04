@@ -22,7 +22,7 @@ The initial version of the dataset contains 50,000 word problems as the split to
 The single file to download the entire data is [kwp.json](kwp.json).
 
 # Paper
-Motivation for simple interpreted queries, data construction and analyses are available in our companion paper:
+Motivation for simple interpreted queries, data construction, and analyses are available in our companion paper:
 
 - Avi Bleiweiss. *Neural Sequence Modeling in Physical Language Understanding*. In NCTA, 2019. (oral)
 
