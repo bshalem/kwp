@@ -24,7 +24,7 @@ The single file to download the entire data is [kwp.json](kwp.json).
 # Paper
 Motivation for simple interpreted queries, data construction, and analyses are available in our companion paper:
 
-- Avi Bleiweiss. *Neural Sequence Modeling in Physical Language Understanding*. In NCTA, 2019. (oral)
+- Avi Bleiweiss. *Neural Sequence Modeling in Physical Language Understanding*. In NCTA, 2019.
 
 ### Citation
 If you use the KWP dataset as part of your work, please cite:
@@ -32,6 +32,10 @@ If you use the KWP dataset as part of your work, please cite:
     @inproceedings{bleiweiss-ncta19,
         author = {Bleiweiss, Avi},
         title = {Neural Sequence Modeling in Physical Language Understanding},
-        booktitle = {NCTA},
+        booktitle = {Proceedings of the 11th International Joint Conference on Computational Intelligence - ({NCTA})},
+        month = {sep},
         year = {2019},
+        publisher = {SCITEPRESS},
+        address = {Vienna, Austria},
+        pages = {464--472},
     }
