@@ -27,8 +27,6 @@ Motivation for simple interpreted queries, data construction, and analyses are a
 - Avi Bleiweiss. *Neural Sequence Modeling in Physical Language Understanding*. In NCTA, 2019.
 
 ### Citation
-If you use the KWP dataset as part of your work, please cite:
-
     @inproceedings{bleiweiss-ncta19,
         author = {Bleiweiss, Avi},
         title = {Neural Sequence Modeling in Physical Language Understanding},
